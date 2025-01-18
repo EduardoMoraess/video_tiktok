@@ -1,7 +1,7 @@
 import pyautogui
 from time import sleep
 
-limite_msg = input('numero de msg:')
+limite_msg = input('Numero de msg: ')
 msg = input('mensagem: ')
 
 i = 0
